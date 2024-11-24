@@ -1,4 +1,4 @@
-# faceify
+# Emotionfy
 
 
 <div> <h1 align="center">Emotion-Driven Playlist Recommendation System 🎵</h1> </div>
