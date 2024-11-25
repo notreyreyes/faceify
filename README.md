@@ -45,9 +45,7 @@ Steps
 USER INTERFACE
 
 <p align="center"> <img src="image.png" alt="User Interface Mockup" width="800"/> </p>
-CONTRIBUTION AND FEEDBACK
 
-<p> We welcome contributions and feedback! Feel free to: <br>  Open an issue or pull request on <a href="https://github.com/your-username/emotionfy">GitHub</a>. <br> Contact us via <a href="https://linkedin.com/in/your-profile">LinkedIn</a>. </p>
 FUTURE ENHANCEMENTS
 
 <p>  <strong>User Customization:</strong> Link personal Spotify accounts for tailored recommendations. <br>  <strong>Platform Expansion:</strong> Integration with Apple Music and other music platforms. <br>  <strong>Improved Emotion Detection:</strong> Incorporate video-based emotion tracking for dynamic recommendations. </p>
