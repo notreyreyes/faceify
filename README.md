@@ -41,7 +41,7 @@ SETUP INSTRUCTIONS
 Requirements
 <p>  Python 3.8 or above <br>  Spotify Developer Account (for API integration) </p>
 Steps
-<p> 1. Clone the repository: <pre> git clone https://github.com/your-username/emotionfy.git cd server </pre> </p> <p> 2. Install dependencies: <pre> pip install -r requirements.txt </pre> </p> <p> 3. Configure Spotify API: <br>  Create a <a href="https://developer.spotify.com/">Spotify Developer Account</a>. <br>  Set up an app and note the <strong>Client ID</strong> and <strong>Client Secret</strong>. <br>  Update the <code>config.py</code> file with these credentials. </p> <p> 4. Run the application: <pre> npm dev run </pre> </p> <p> 4. Run the server: <pre> python3 main.py </pre> </p> 
+<p> 1. Clone the repository: <pre> git clone https://github.com/your-username/emotionfy.git cd server </pre> </p> <p> 2. Install dependencies: <pre> pip install -r requirements.txt </pre> </p> <p> 3. Configure Spotify API: <br>  Create a <a href="https://developer.spotify.com/">Spotify Developer Account</a>. <br>  Set up an app and note the <strong>Client ID</strong> and <strong>Client Secret</strong>. <br>  Update the <code>config.py</code> file with these credentials. </p> <p> 4. Run the application: <pre> npm dev run </pre> </p> <p> 5. Run the server: <pre> python3 main.py </pre> </p> 
 USER INTERFACE
 
 <p align="center"> <img src="image.png" alt="User Interface Mockup" width="800"/> </p>
