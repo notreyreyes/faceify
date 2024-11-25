@@ -44,7 +44,7 @@ Steps
 <p> 1. Clone the repository: <pre> git clone https://github.com/your-username/emotionfy.git cd server </pre> </p> <p> 2. Install dependencies: <pre> pip install -r requirements.txt </pre> </p> <p> 3. Configure Spotify API: <br>  Create a <a href="https://developer.spotify.com/">Spotify Developer Account</a>. <br>  Set up an app and note the <strong>Client ID</strong> and <strong>Client Secret</strong>. <br>  Update the <code>config.py</code> file with these credentials. </p> <p> 4. Run the application: <pre> npm dev run </pre> </p> 
 USER INTERFACE
 
-<p align="center"> <img src="faceify/image.png" alt="User Interface Mockup" width="800"/> </p>
+<p align="center"> <img src="/faceify/image.png" alt="User Interface Mockup" width="800"/> </p>
 CONTRIBUTION AND FEEDBACK
 
 <p> We welcome contributions and feedback! Feel free to: <br>  Open an issue or pull request on <a href="https://github.com/your-username/emotionfy">GitHub</a>. <br> Contact us via <a href="https://linkedin.com/in/your-profile">LinkedIn</a>. </p>
